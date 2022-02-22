@@ -9,7 +9,7 @@
 </div>
 
   
-<img src="https://tenor.com/view/legend-o-zelda-link-gif-11134922" />
+<div class="tenor-gif-embed" data-postid="11134922" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/legend-o-zelda-link-gif-11134922">Legend O Zelda Link GIF</a>from <a href="https://tenor.com/search/legend+o+zelda-gifs">Legend O Zelda GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
       
 ### Soft Skills:
 
