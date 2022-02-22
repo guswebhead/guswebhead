@@ -8,7 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswebhead&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-https://c.tenor.com/HlGK9_gwuV8AAAAC/legend-o-zelda-link.gif
+<img src="https://c.tenor.com/HlGK9_gwuV8AAAAC/legend-o-zelda-link.gif"/>
 
       
 ### Soft Skills:
