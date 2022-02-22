@@ -42,6 +42,4 @@
 <a href = "mailto:gustavo.caixeta42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavocaixeta42/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<img src="https://myoctocat.com/assets/images/octocats/octocat-20.png"  width="200" height="200"/>
-     
 </div>
