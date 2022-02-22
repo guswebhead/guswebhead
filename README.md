@@ -1,5 +1,5 @@
 ## Olá, me chamo Gustavo Caixeta, desenvolvedor Front-End ! 
-### Bem vindo ao meu perfil GitHub 👋
+### Seja muito bem vindo(a) ao meu perfil GitHub 👋
 
 
 <div>
@@ -8,6 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswebhead&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+https://tenor.com/view/legend-o-zelda-link-gif-11134922
 
       
 ### Soft Skills:
