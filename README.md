@@ -9,7 +9,6 @@
 </div>
 
 
-<img src="https://tenor.com/view/legend-o-zelda-link-gif-11134922"  />
       
 ### Soft Skills:
 
