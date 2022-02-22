@@ -8,8 +8,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswebhead&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-  
-<div class="tenor-gif-embed" data-postid="11134922" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/legend-o-zelda-link-gif-11134922">Legend O Zelda Link GIF</a>from <a href="https://tenor.com/search/legend+o+zelda-gifs">Legend O Zelda GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<img src="https://tenor.com/view/legend-o-zelda-link-gif-11134922"  />
       
 ### Soft Skills:
 
