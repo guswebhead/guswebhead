@@ -10,9 +10,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswebhead&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
       
-
-<img src="https://github.com/seu-usuário-aqui/guswebhead/blob/output/github-contribution-grid-snake.svg"  />
-      
+![Snake animation](https://github.com/guswebhead/guswebhead/blob/output/github-contribution-grid-snake.svg)
 
 
       
