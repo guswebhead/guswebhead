@@ -1,4 +1,4 @@
-## Olá, me chamo Gustavo Caixeta, desenvolvedor Front-End ! 
+## Olá DEVs! Me chamo Gustavo Caixeta, tenho 23 anos e estou me aventurando na carreira de Desenvolvedor Front-End! 
 ### Seja muito bem vindo(a) ao meu perfil GitHub 👋 
 <img src="https://c.tenor.com/HlGK9_gwuV8AAAAC/legend-o-zelda-link.gif" width="100" height="100" />
 
