@@ -1,22 +1,20 @@
-## Olá DEVs! Me chamo Gustavo Caixeta, tenho 23 anos e estou me aventurando na carreira de Desenvolvedor Front-End! 
-### Seja muito bem vindo(a) ao meu perfil GitHub 👋 
 <img align="right" height="590cm"  src="https://raw.githubusercontent.com/gist/guswebhead/e7688c62530a4a0816e694463802414f/raw/2deda55d08a790f81148a65c574ab844bbb28b80/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Caixeta</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guswebhead&color=yellow" alt="Profile views" /> </p>
 
+- 🔥 Junior Web Developer & focused Angular 
 
+- 🔭 I’m currently working at [SdBusiness](https://linktr.ee/sdbusiness)
 
+- 👨‍💻 All of my projects are available at [gus.dev](https://github.com/guswebhead)
 
+- 💬 Ask me about **JavaScript, HTML, CSS, Angular**
 
+- ⚡ Fun fact **Shalom! 😜**
 
-<div>
-<a href="https://github.com/guswebhead">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswebhead&layout=compact&langs_count=7&theme=github_dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswebhead&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
-      
-![Snake animation](https://github.com/guswebhead/guswebhead/blob/output/github-contribution-grid-snake.svg)
+<br><br>
 
-
-### Soft Skills:
+## 🛠 &nbsp;Tech Stack
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
@@ -26,18 +24,35 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </div>
 
-### Estou me aperfeiçoando em:
+<br><br>
 
+## In progress...
+
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg"  width="40" height="40"/>
+</div>
+<br><br>
 
-### Contatos:
+## ⚙️ &nbsp;GitHub Analytics
+<div>
+<a href="https://github.com/guswebhead">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswebhead&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswebhead&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
+      
+![Snake animation](https://github.com/guswebhead/guswebhead/blob/output/github-contribution-grid-snake.svg)
+
+## Social Links:
 
 <div>
 <a href="https://www.instagram.com/gus.caixeta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
