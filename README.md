@@ -2,6 +2,8 @@
 ### Seja muito bem vindo(a) ao meu perfil GitHub 👋 
 <img src="https://c.tenor.com/HlGK9_gwuV8AAAAC/legend-o-zelda-link.gif" width="100" height="100" />
 
+<img align="right" height="590cm"  src="https://raw.githubusercontent.com/gist/guswebhead/e7688c62530a4a0816e694463802414f/raw/2deda55d08a790f81148a65c574ab844bbb28b80/githubcard.svg"
+
 
 
 <div>
