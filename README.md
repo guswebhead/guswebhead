@@ -4,7 +4,7 @@
 
 - 🔥 Junior Web Developer & focused Angular especialist
 
-- 🔭 I’m currently working at [SdBusiness](https://linktr.ee/sdbusiness)
+- 🔭 I’m currently working at [ENACOM](https://www.enacom.com.br/)
 
 - 👨‍💻 All of my projects are available at [gus.dev](https://github.com/guswebhead)
 
