@@ -1,5 +1,5 @@
 <img align="right" height="590cm"  src="https://raw.githubusercontent.com/gist/guswebhead/e7688c62530a4a0816e694463802414f/raw/2deda55d08a790f81148a65c574ab844bbb28b80/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Caixeta</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px">, I'm Gustavo Caixeta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guswebhead&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer & focused Angular especialist
