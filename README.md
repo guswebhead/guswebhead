@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [gus.dev](https://github.com/guswebhead)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Angular**
+- 💬 Ask me about **TypeScript, HTML, SCSS, Angular**
 
 - ⚡ Fun fact **Shalom! 😜**
 
