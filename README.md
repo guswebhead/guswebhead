@@ -1,12 +1,12 @@
-<img align="right" height="590cm"  src="https://raw.githubusercontent.com/gist/guswebhead/e7688c62530a4a0816e694463802414f/raw/2deda55d08a790f81148a65c574ab844bbb28b80/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px">, I'm Gustavo Caixeta</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guswebhead&color=yellow" alt="Profile views" /> </p>
+## Hello World! My name is <strong>Gustavo Caixeta</strong>! 👋
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+- 👨🏻‍💻 25 years old, degree in Systems Analysis and Development.
 
 - 🔥 Web Developer & focused Angular especialist
 
 - 🔭 I’m currently working at [ENACOM](https://www.enacom.com.br/)
-
-- 👨‍💻 All of my projects are available at [gus.dev](https://github.com/guswebhead)
 
 - 💬 Ask me about **TypeScript, HTML, SCSS, Angular**
 
@@ -14,50 +14,83 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+<h2 align="left">
+🛠 &nbsp;Tech Stack
+</h2>
 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Stlyed Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+
+<p align="left">
+  💌 Contacts: ⤵️
+</p>
+
+<a href="https://www.linkedin.com/in/gustavocaixeta42/" title="LinkedIn" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<a href="https://wa.me/+5561982177518" title="WhatsApp" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
+<a href="https://www.instagram.com/gus.caixeta/" title="Instagram" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<br>
+<br>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=guswebhead&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswebhead&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=guswebhead&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=guswebhead&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+<div align="center">
+  <h3><b>Visitor Count</b></h3>
 </div>
 
-<br><br>
-
-## In progress...
-
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg"  width="40" height="40"/>
-</div>
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-<div>
-<a href="https://github.com/guswebhead">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswebhead&layout=compact&langs_count=7&theme=github_dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guswebhead&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
-      
-![Snake animation](https://github.com/guswebhead/guswebhead/blob/output/github-contribution-grid-snake.svg)
-
-## Social Links:
-
-<div>
-<a href="https://www.instagram.com/gus.caixeta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:gustavo.caixeta42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gustavocaixeta42/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-      <img align="right" src="https://c.tenor.com/HlGK9_gwuV8AAAAC/legend-o-zelda-link.gif" width="100" height="100" />
-</div>
-
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/guswebhead/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
