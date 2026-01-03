@@ -2,11 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 👨🏻‍💻 25 years old, degree in Systems Analysis and Development.
+- 👨🏻‍💻 27 years old, degree in Systems Analysis and Development.
 
 - 🔥 Web Developer & focused Angular especialist
 
-- 🔭 I’m currently working at [ENACOM](https://www.enacom.com.br/)
+- 🔭 I’m currently working at [CI&T](https://ciandt.com/br/pt-br/home)
 
 - 💬 Ask me about **TypeScript, HTML, SCSS, Angular**
 
